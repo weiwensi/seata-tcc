@@ -28,7 +28,7 @@
         <zookeeper.version>3.4.14</zookeeper.version>
         <curator.version>2.9.1</curator.version>
         <dubbo.springboot.starter.version>1.0.0</dubbo.springboot.starter.version>
-        <dubbo.version>2.7.0</dubbo.version>
+        <dubbo.version>2.7.13</dubbo.version>
 
         <commons-dbcp.version>1.3</commons-dbcp.version>
         <h2.version>1.4.181</h2.version>
